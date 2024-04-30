@@ -1,3 +1,6 @@
 [submodule "imagenet-1k/imagenet-1k/pytorch-hed"]
 	path = imagenet-1k/imagenet-1k/pytorch-hed
 	url = https://github.com/sniklaus/pytorch-hed
+[submodule "controlNet"]
+	path = controlNet
+	url = https://github.com/lllyasviel/ControlNet
